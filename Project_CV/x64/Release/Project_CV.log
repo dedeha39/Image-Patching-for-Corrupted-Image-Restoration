@@ -1,0 +1,6 @@
+﻿  Lab_4.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 437 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project_CV.vcxproj -> C:\Users\dehak\OneDrive\Masaüstü\OpenCv_V2\Project_CV\x64\Release\Project_CV.exe
